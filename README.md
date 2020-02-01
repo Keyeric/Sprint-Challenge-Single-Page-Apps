@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: CSR is more efficient and doesnt refresh the entire page everytime data is requested, onlt the parts that need to directly change.
 
 ## Project Set Up
 
